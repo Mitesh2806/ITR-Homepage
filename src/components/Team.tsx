@@ -1,7 +1,7 @@
 import { buttonVariants } from "@/components/ui/button";
 import {
   Card,
-  CardContent,
+  
   CardDescription,
   CardFooter,
   CardHeader,
