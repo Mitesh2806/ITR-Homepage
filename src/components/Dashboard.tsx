@@ -15,12 +15,12 @@ const sidebarItems: SidebarItem[] = [
   {
     label: "ITR Assistant",
     icon: <IconUser size={24} />,
-    iframeUrl: "https://f55e-152-58-31-83.ngrok-free.app/",
+    iframeUrl: "https://72b8-2409-40c2-1056-9201-e48b-8e3c-4679-82c9.ngrok-free.app/",
   },
   {
     label: "Income Tax Calculator",
     icon: <IconSettings size={24} />,
-    iframeUrl: "https://3c32-152-58-31-225.ngrok-free.app/",
+    iframeUrl: "https://a481-2409-40c2-1056-9201-e48b-8e3c-4679-82c9.ngrok-free.app/",
   },
 ];
 
